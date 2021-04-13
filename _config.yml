@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Your awesome title
+title: Xiong Junyan
 author: Jekyll Writer
 description: > # this means to ignore newlines until "baseurl:"
   This theme is disigned based on Mailbox Blog, and licensed under MIT.
@@ -14,8 +14,8 @@ description: > # this means to ignore newlines until "baseurl:"
 permalink: /:year/:month/:day/:title/
 paginate: 6
 paginate_path: "/page/:num/"
-twitter_username: jekyllwriter
-github_username:  jekyllwriter
+twitter_username: fergusonxiong
+github_username:  fergusonxiong
 gems: [jekyll-paginate]
 markdown: kramdown
 baseurl: "/fergusonxiong.github.io"
